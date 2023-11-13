@@ -57,7 +57,7 @@ form .display{
 }
 form .display input{
     width: 95%;
-    margin-right: 2%;
+    margin-right: 3%;
     padding: 10px;
     height: 50px;
     font-size: 30px;
@@ -173,7 +173,7 @@ form .Lightdisplay{
 }
 form .Lightdisplay input{
     width: 95%;
-    margin-right: 2%;
+    margin-right: 3%;
     padding: 10px;
     height: 50px;
     font-size: 30px;

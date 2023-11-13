@@ -282,61 +282,61 @@ color: #FFD8A9;
 .c1{
     opacity: 1;
     animation: drop 2s linear forwards 0.5s;
-    color: #FFD8A9;
+    color: #331D2C;
     
     }
     .a1{
     opacity: 1;
     animation: drop 2.2s linear forwards 0.8s;
-    color: #FFECDA;
+    color: #3F2E3E;
     
     }
     .l1 {
     opacity: 0;
     animation: drop 2.5s linear forwards 1s;
-    color: #FDF196;
+    color: #352F44;
     
     }
     .C1 {
     opacity: 0;
     animation: drop 2.4s linear forwards 1.5s;
-    color: #E3F4F4;
+    color: #5C5470;
     
     }
     .u1 {
     opacity: 0;
     animation: drop 3s linear forwards 0.8s;
-    color: #F8F6F4;
+    color: #393646;
     
     }
     .L1 {
     opacity: 0;
     animation: drop 2.5s linear forwards 0.2s;
-    color: #ffffff ;
+    color: #4F4557;
     
     }
     .A1 {
     opacity: 0;
     animation: drop 2s linear forwards 0.2s;
-    color: #D2E9E9;
+    color: #474E68;
     
     }
     .t1 {
     opacity: 0;
     animation: drop 1.5s linear forwards 0.2s;
-    color: #ccffff ;
+    color: #443C68;
     
     }
     .o1 {
     opacity: 0;
     animation: drop .7s linear forwards 0.4s;
-    color: #99ffff;
+    color: #393053;
     
     }
     .r1 {
     opacity: 0;
     animation: drop 1s linear forwards .6s;
-    color:#00ffff ;
+    color:#453C67;
     
     } 
 @keyframes drop {
